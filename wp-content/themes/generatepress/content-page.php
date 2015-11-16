@@ -1,6 +1,6 @@
 <?php
 /**
- * The template used for displaying page content in page.php _--- THIS IS TESTSSSSSS
+ * The template used for displaying page content in page.php FO REALS YO
  *
  * @package GeneratePress
  */
